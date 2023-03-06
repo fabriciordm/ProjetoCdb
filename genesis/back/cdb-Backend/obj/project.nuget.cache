@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "QY1f5kdMjYNDxtpMSB2l2iPBOJ/TRcEK9eJQWWuTVpZzCh/uUYoduS6hD5vibLxcXiReb6cS6+wDUHmhkLfbSQ==",
+  "success": true,
+  "projectFilePath": "C:\\Genesis_bkp\\genesis\\back\\cdb-Backend\\cdb-Backend.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\FABRICIO\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\FABRICIO\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\FABRICIO\\.nuget\\packages\\sonaranalyzer.csharp\\8.53.0.62665\\sonaranalyzer.csharp.8.53.0.62665.nupkg.sha512",
+    "C:\\Users\\FABRICIO\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\FABRICIO\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\FABRICIO\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\FABRICIO\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
