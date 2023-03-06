@@ -3,13 +3,13 @@
 # Definir as variáveis do compilador e das opções de compilação
 faça o download ou clone do projeto no github 
 
-# para executar o projeto front end, abra o terminal e navegue até o diretório Seu_diretório:\Genesis_bkp\genesis\front\src\app e digite:  
+# para executar o projeto front end, abra o terminal e navegue até o diretório Seu_diretório:\genesis\front\src\app e digite:  
 npm start
 resultado esperado: √ Compiled successfully.
 Será exibido um link com a url do projeto frontend localhost:4200/calculocdb
 clique no link e será aberta a url no browser.
 
-# para executar o projeto back end, abra o terminal e navegue até o diretório Seu_diretório:C:\Genesis_bkp\genesis\back\cdb-Backend e digite:  
+# para executar o projeto back end, abra o terminal e navegue até o diretório Seu_diretório:\genesis\back\cdb-Backend e digite:  
 dotnet run
 resultado esperado: 
 
