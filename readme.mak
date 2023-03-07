@@ -1,7 +1,5 @@
 # APP para cálculo de CDB
 
-# Definir as variáveis do compilador e das opções de compilação
-faça o download ou clone do projeto no github 
 
 # para executar o projeto front end, abra o terminal e navegue até o diretório Seu_diretório:\genesis\front\src\app e digite:  
 npm start
